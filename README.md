@@ -10,8 +10,10 @@ Installation
 
 Copy rails_special_file_nav.py to your Sublime packages/User directory (on OS X: `~/Library/Application Support/Sublime Text 2/Packages/User`), and then add keyboard shortcuts to your Sublime keyboard config:
 
+```
 { "keys": ["super+ctrl+g"],  "command": "gemfile_navigation"},
 { "keys": ["super+ctrl+r"],  "command": "rakefile_navigation"}
+```
 
 Customizing
 -----------

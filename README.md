@@ -18,7 +18,7 @@ Copy rails_special_file_nav.py to your Sublime packages/User directory (on OS X:
 Customizing
 -----------
 
-Edit the rails_special_file_nav.py to create your own commands, then add the keybinding above. (Or wait a while and I'll probably extend the command to be a proper suite for all the rails special files.)
+Edit the `rails_special_file_nav.py` to create your own commands, then add the keybinding above. (Or bug me on twitter @LeeMallabone and I'll probably extend the command to be a proper suite for all the rails special files.)
 
 License
 -------
